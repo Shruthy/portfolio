@@ -1,0 +1,10 @@
+Open index.html file
+Make edits
+
+Login to Git hub - go to repository - https://github.com/Shruthy/portfolio
+Open GitHub Desktop - Open "portfolio" repository
+You should see all the edits made
+Hit "Commit" and then "Push origin"
+
+Wait for a while and refresh shruthy.com
+changes should be visible
